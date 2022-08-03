@@ -33,7 +33,7 @@ Code:LatN:LongW:City
 [CDE]:56.00:134.22:Cape Decis, AK
 [5HN]:60.38:147.08:Cape Hinchi, AK
 [CSP]:58.33:137.05:Cape Spence, AK
-[5CE]:60.33:145.00:Cape St Eli, AK
+[5CE]:60.33:145.00:Cape St. Eli, AK
 [WCR]:67.50:148.48:Chandalar Lk, AK
 [Z00]:62.88:149.83:Chulitna, AK
 [CRC]:65.83:144.07:Circle City, AK
@@ -104,7 +104,7 @@ Code:LatN:LongW:City
 [SGY]:59.75:135.53:Skagway, AK
 [SKW]:61.97:151.20:Skwentna, AK
 [5SO]:62.03:146.67:Snowshoe Lk, AK
-[SNP]:57.15:170.22:St Paul Is, AK
+[SNP]:57.15:170.22:St. Paul Is, AK
 [5GN]:61.90:147.30:Tahneta Pass, AK
 [TKA]:62.30:150.10:Talkeetna, AK
 [TAL]:65.17:152.10:Tanana, AK
@@ -345,7 +345,7 @@ Code:LatN:LongW:City
 [JAX]:30.50: 81.70:Jacksonville, FL
 [NIP]:30.23: 81.68:Jacksonville, FL
 [EYW]:24.55: 81.75:Key West, FL
-[NQX]:24.57: 81.68:Key West NAS, FL
+[NQX]:24.57: 81.68:Key WeSt. NAS, FL
 [LAL]:28.03: 81.95:Lakeland, FL
 [MCF]:27.85: 82.52:Macdill AFB, FL
 [MAI]:30.84: 85.18:Marianna, FL
@@ -560,7 +560,7 @@ Code:LatN:LongW:City
 [BHB]:44.45: 68.37:Bar Harbor, ME
 [NHZ]:43.88: 69.93:Brunswick, ME
 [CAR]:46.87: 68.02:Caribou Mun, ME
-[3B1]:45.45: 69.55:Greenville, ME
+[3B1]:45.45: 69.55:villville, ME
 [6B2]:45.78: 69.63:Greenville, ME
 [HUL]:46.13: 67.78:Houlton, ME
 [LIZ]:46.95: 67.88:Loring AFB, ME
@@ -653,7 +653,7 @@ Code:LatN:LongW:City
 [RWF]:44.55: 95.08:Redwood Falls, MN
 [RST]:43.92: 92.50:Rochester, MN
 [STP]:44.93: 93.05:Saint Paul, MN
-[STC]:45.55: 94.07:St Cloud, MN
+[STC]:45.55: 94.07:St. Cloud, MN
 [TVF]:48.07: 96.18:Thief River, MN
 [P61]:47.58: 90.83:Tofte, MN
 [D45]:48.93: 95.35:Warroad, MN
@@ -674,7 +674,7 @@ Code:LatN:LongW:City
 [UOX]:34.39: 89.54:Oxford, MS
 [TUP]:34.27: 88.77:Tupelo, MS
 [COU]:38.82: 92.22:Columbia, MO
-[CGI]:37.23: 89.58:Cp Girardeau, MO
+[CGI]:37.23: 89.58:Girardeau, MO
 [TBN]:37.75: 92.13:Ft Leonard, MO
 [JEF]:38.60: 92.17:Jefferson City, MO
 [JLN]:37.17: 94.50:Joplin, MO
@@ -687,12 +687,12 @@ Code:LatN:LongW:City
 [GVW]:38.85: 94.55:Richards-Geb, MO
 [P35]:40.25: 93.72:Spickard, MO
 [SGF]:37.23: 93.38:Springfield, MO
-[STJ]:40.28: 95.53:St Joseph, MO
-[STL]:38.75: 90.37:St Louis, MO
+[STJ]:40.28: 95.53:St. Joseph, MO
+[STL]:38.75: 90.37:St. Louis, MO
 [SUS]:38.65: 90.63:StLouis/Spirit, MO
 [VIH]:38.13: 91.77:Vichy/Rolla, MO
-[H63]:37.22: 92.42:West Plains, MO
-[UNO]:36.88: 91.90:West Plains, MO
+[H63]:37.22: 92.42:WeSt. Plains, MO
+[UNO]:36.88: 91.90:WeSt. Plains, MO
 [SZL]:38.73: 93.55:Whiteman AFB, MO
 [BIL]:45.80:108.53:Billings, MT
 [BZN]:45.78:111.15:Bozeman, MT
@@ -1117,7 +1117,7 @@ Code:LatN:LongW:City
 [MPV]:44.20: 72.57:Montpelier, VT
 [EFK]:45.55: 72.33:Newport, VT
 [RUT]:43.53: 73.95:Rutland, VT
-[9B2]:44.42: 72.02:St Johnsbury, VT
+[9B2]:44.42: 72.02:St. Johnsbury, VT
 [MNW]:42.88: 72.88:Wilmington, VT
 [CHO]:38.13: 78.45:Charlottesvi, VA
 [W39]:37.50: 76.20:Chesapeake, VA
@@ -1133,7 +1133,7 @@ Code:LatN:LongW:City
 [NTU]:36.82: 76.03:Oceana NAS, VA
 [NYG]:38.50: 77.30:Quantico Mca, VA
 [RIC]:37.50: 77.33:Richmond, VA
-[ROA]:37.32: 79.97:Roanoke Muni, VA
+[ROA]:37.32: 79.97:Roanoke, VA
 [SHD]:38.27: 78.85:Staunton, VA
 [VQN]:36.95: 78.98:Volens, VA
 [WAL]:37.85: 75.48:Wallops Sta, VA
@@ -1216,3 +1216,194 @@ Code:LatN:LongW:City
 [SHR]:44.77:106.97:Sheridan, WY
 [WRL]:43.97:107.97:Worland, WY
 [P60]:44.55:110.42:Yellowstone, WY
+[XXX]:38.2:84.87:Frankfort, KY
+[XXX]:39.36:74.42:Atlantic City, NJ
+[XXX]:38.63:90.20:St. Louis, MO
+[XXX]:39.65:78.76:Cumberland, MA
+[XXX]:39.18:78.16:Winchester, VA
+[XXX]:34.48:114.32:Lake Havasu City, AZ
+[XXX]:33.49:88.43:Columbus, MS
+[XXX]:36.64:93.22:Branson, MO
+[XXX]:40.70: 74.17:Newark, NJ
+[XXX]:32.78:96.80:Dallas, TX
+[XXX]:35.15:90.05:Memphis, TN
+[XXX]:35.52:108.78:Gallup, NM
+[XXX]:38.95: 77.46:Washington, DC
+[XXX]:35.61:77.37:Greenville, NC
+
+[XXX]:Lake City, FL
+[XXX]:Tampa, FL
+[XXX]:Hanford, CA
+[XXX]:Omaha, NE
+[XXX]:Akron, OH
+[XXX]:Ellensburg, WA
+[XXX]:Anderson, IN
+[XXX]:Decatur, AL
+[XXX]:Columbia, TN
+[XXX]:West Palm Beach, FL
+[XXX]:Santa Barbara, CA
+[XXX]:Scranton, PA
+[XXX]:Beaumont, TX
+[XXX]:Lawrenceburg, TN
+[XXX]:Mount Sterling, KY
+[XXX]:Traverse City, MI
+[XXX]:Lebanon, MO
+[XXX]:Manhattan, KS
+[XXX]:York, PA
+[XXX]:Tyler, TX
+[XXX]:Kennewick, WA
+[XXX]:Alamogordo, NM
+[XXX]:Wapakoneta, OH
+[XXX]:Safford, AZ
+[XXX]:Fort Lauderdale, FL
+[XXX]:Lewisburg, TN
+[XXX]:Corpus Christi, TX
+[XXX]:Springfield, OH
+[XXX]:Warrensburg, MO
+[XXX]:Blackfoot, ID
+[XXX]:Salisbury, NC
+[XXX]:Charlottesville, VA
+[XXX]:Clovis, NM
+[XXX]:Mountain Home, ID
+[XXX]:Shawnee, OK
+[XXX]:Chillicothe, OH
+[XXX]:Honolulu, HI
+[XXX]:Sandusky, OH
+[XXX]:Crescent City, CA
+[XXX]:Colorado Springs, CO
+[XXX]:Shelby, NC
+[XXX]:Morristown, TN
+Greenwood, SC
+Brainerd, MN
+Muscatine, IA
+Big Rapids, MI
+Uvalde, TX
+Ames, IA
+Mount Pleasant, MI
+Ruidoso, NM
+Sturgis, MI
+Iron Mountain, MI
+Bay City, TX
+Rocky Mount, NC
+Columbus, IN
+Savannah, GA
+St. George, UT
+Mount Vernon, WA
+Danville, KY
+Clinton, IA
+Rome, GA
+Truckee, CA
+Auburn, IN
+Gainesville, GA
+Kokomo, IN
+Holland, MI
+Bemidji, MN
+Miami, OK
+Augusta, GA
+Miami, FL
+Kahului, HI
+Prineville, OR
+Madisonville, KY
+Searcy, AR
+Klamath Falls, OR
+Macon, GA
+College Station, TX
+Greeneville, TN
+Starkville, MS
+Lewiston, ME
+Flint, MI
+Statesville, NC
+Nacogdoches, TX
+Talladega, AL
+Owatonna, MN
+Fort Leonard Wood, MO
+Bedford, IN
+Cumberland, MD
+Meadville, PA
+Eagle Pass, TX
+Washington Court House, OH
+State College, PA
+Marion, OH
+Marshalltown, IA
+Dickinson, ND
+Meridian, MS
+Mountain Home, AR
+Oklahoma City, OK
+Price, UT
+Brigham City, UT
+Russellville, AR
+Wooster, OH
+Minot, ND
+Sheboygan, WI
+Lincoln, NE
+Sterling, CO
+Marshall, MN
+Lock Haven, PA
+Tullahoma, TN
+Shelbyville, TN
+Punta Gorda, FL
+Fallon, NV
+Altus, OK
+Marshall, TX
+Marion, IN
+Lima, OH
+Fremont, NE
+Thomasville, GA
+Albany, OR
+Lafayette, IN
+Salt Lake City, UT
+Freeport, IL
+Champaign, IL
+Racine, WI
+Bend, OR
+Batesville, AR
+Paris, TN
+Sweetwater, TX
+Cape Girardeau, MO
+Grenada, MS
+Statesboro, GA
+Wilmington, OH
+Goldsboro, NC
+Ruston, LA
+Nogales, AZ
+Hudson, NY
+Waterloo, IA
+Cadillac, MI
+Dalton, GA
+Coffeyville, KS
+Connersville, IN
+Orangeburg, SC
+Madera, CA
+Farmington, MO
+Peru, IN
+Sumter, SC
+Elizabeth City, NC
+New Philadelphia, OH
+Richmond, IN
+Marshall, MO
+Waco, TX
+Grand Junction, CO
+Ocala, FL
+San Luis Obispo, CA
+Easton, MD
+Elizabethtown, KY
+Seymour, IN
+Great Bend, KS
+Corsicana, TX
+Raleigh, NC
+Fort Smith, AR
+Rexburg, ID
+Sikeston, MO
+Andrews, TX
+Richmond, KY
+Lawrence, KS
+Union City, TN
+Somerset, KY
+Laredo, TX
+Storm Lake, IA
+Mount Pleasant, TX
+Bowling Green, KY
+Athens, TN
+Indiana, PA
+Georgetown, SC
+Wichita Falls, TX
